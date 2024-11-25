@@ -1,0 +1,4 @@
+S001,Nguyễn Văn A,2005-01-01,Nam,10A1,Hà Nội,8.5
+S002,Trần Thị B,2005-02-02,Nữ,10A1,Đà Nẵng,9.0
+S003,Lê Văn C,2005-03-03,Nam,10A2,Hồ Chí Minh,7.5
+S004,Phạm Thị D,2005-04-04,Nữ,11B1,Hải Phòng,8.0

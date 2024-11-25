@@ -1,0 +1,4 @@
+Lớp 10A1,10,Nguyễn Văn A,35
+Lớp 10A2,10,Trần Thị B,30
+Lớp 11B1,11,Lê Văn C,28
+Lớp 12C1,12,Phạm Thị D,25

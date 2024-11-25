@@ -1,0 +1,6 @@
+T001,Nguyễn Văn A,1980-01-01,Nam,Toán,Địa chỉ 1
+T002,Trần Thị B,1985-05-05,Nữ,Lý,Địa chỉ 2
+T003,Nguyễn Văn C,1990-09-09,Nam,Hóa,Địa chỉ 3
+T004,Phạm Thị D,1982-12-12,Nữ,Văn,Địa chỉ 4
+T005,Lê Văn E,1978-03-03,Nam,Sử,Địa chỉ 5
+T006,NguyenVanB,30-03-2005,nam,Toán,Bac Giang
